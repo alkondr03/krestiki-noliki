@@ -6,7 +6,12 @@
  * Вариант "ничья" никак не обрабатывается.
  */
 class TicTacGame {
-    
+    sadtfasdgserdfgvfdzgv
+    sadtfasdgserdfgvfdzgvadfgv
+    dfzcxgbv
+    szdcxh
+    bvsdzfcx
+    bv dfzcxgbvcg
     /*
      * Размер игрового поля
      */
